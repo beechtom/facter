@@ -55,3 +55,7 @@ build-iPhoneSimulator/
 .rspec_status
 Gemfile.lock
 Gemfile.local
+benchmarks/output/*
+
+# exception to the rule
+!benchmarks/output/.gitkeep
